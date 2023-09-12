@@ -22,3 +22,5 @@ Evaluate trained model
 Inference with trained model
 
 # 🔥 Let's begin!
+go into COCA_PSI_Train_YOLONAS_Custom_Dataset_EK_update.ipynb 
+And test it.
