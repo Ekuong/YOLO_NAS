@@ -1,6 +1,6 @@
 # YOLO_NAS COCA and PSI Cans Identify
 Deep Learning for Image Processing
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+My+name+is+Ekuong.+)](https://git.io/typing-svg)
 
 # ⚠️ Disclaimer
 YOLO-NAS is still very fresh. If you notice that our notebook behaves incorrectly - especially if you experience errors that prevent you from going through the tutorial - don't hesitate! Let us know and open an issue on the Roboflow Notebooks repository.
